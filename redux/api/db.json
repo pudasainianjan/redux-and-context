@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "my stream 1",
+      "description": "description one",
+      "userId": "106202398340892704235",
+      "id": 1
+    },
+    {
+      "title": "random stream",
+      "description": "random description",
+      "userId": "106202398340892704235",
+      "id": 2
+    }
+  ]
+}
